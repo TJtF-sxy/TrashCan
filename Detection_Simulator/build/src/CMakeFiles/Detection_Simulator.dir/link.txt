@@ -1,0 +1,3 @@
+D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\Detection_Simulator.dir/objects.a
+D:\msy32\ucrt64\bin\ar.exe qc CMakeFiles\Detection_Simulator.dir/objects.a @CMakeFiles\Detection_Simulator.dir\objects1.rsp
+D:\msy32\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Detection_Simulator.dir/objects.a -Wl,--no-whole-archive -o Detection_Simulator.exe -Wl,--out-implib,libDetection_Simulator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Detection_Simulator.dir\linkLibs.rsp

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/IFR/2026/rm_judgement/build/cmake_install.cmake",
+		"D:/IFR/2026/rm_judgement/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

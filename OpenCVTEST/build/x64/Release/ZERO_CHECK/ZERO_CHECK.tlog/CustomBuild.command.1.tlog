@@ -1,0 +1,10 @@
+^D:\IFR\2026\OPENCVTEST\BUILD\CMAKEFILES\B9FA01FDBDF09032DAF1B711C157D65B\GENERATE.STAMP.RULE
+setlocal
+D:\Cmake\bin\cmake.exe -SD:/IFR/2026/OpenCVTEST -BD:/IFR/2026/OpenCVTEST/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/IFR/2026/OpenCVTEST/build/OpenCVDemo.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

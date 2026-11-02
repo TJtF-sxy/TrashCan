@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/IFR/2026/Detection_Simulator/build/cmake_install.cmake",
+		"D:/IFR/2026/Detection_Simulator/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

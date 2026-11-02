@@ -1,0 +1,92 @@
+[
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\main.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\main.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/main.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\Init.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\Init.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/Init.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/Init.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\parse_cmd.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\parse_cmd.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/parse_cmd.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/parse_cmd.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\noise.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\noise.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/noise.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/noise.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\denoise.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\denoise.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/denoise.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/denoise.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\edge.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\edge.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/edge.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/edge.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\show.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\show.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/show.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/show.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\img_preview.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\img_preview.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/img_preview.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/img_preview.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\reset.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\reset.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/reset.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/reset.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\avg_brightness.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\avg_brightness.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/avg_brightness.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/avg_brightness.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\vertical_map.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\vertical_map.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/vertical_map.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/vertical_map.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\undo.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\undo.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/undo.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/undo.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\threshold.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\threshold.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/threshold.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/threshold.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\find.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\find.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/find.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/find.cpp.obj"
+},
+{
+  "directory": "D:/IFR/2026/Detection_Simulator/build/src",
+  "command": "D:\\msy32\\ucrt64\\bin\\g++.exe  @CMakeFiles\\Detection_Simulator.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Detection_Simulator.dir\\flip.cpp.obj -c D:\\IFR\\2026\\Detection_Simulator\\src\\flip.cpp",
+  "file": "D:/IFR/2026/Detection_Simulator/src/flip.cpp",
+  "output": "src/CMakeFiles/Detection_Simulator.dir/flip.cpp.obj"
+}
+]

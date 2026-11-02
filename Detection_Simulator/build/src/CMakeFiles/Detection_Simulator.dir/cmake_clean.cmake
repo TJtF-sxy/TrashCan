@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Detection_Simulator.dir/Init.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/Init.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/avg_brightness.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/avg_brightness.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/denoise.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/denoise.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/edge.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/edge.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/find.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/find.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/flip.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/flip.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/img_preview.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/img_preview.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/main.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/main.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/noise.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/noise.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/parse_cmd.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/parse_cmd.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/reset.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/reset.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/show.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/show.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/threshold.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/threshold.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/undo.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/undo.cpp.obj.d"
+  "CMakeFiles/Detection_Simulator.dir/vertical_map.cpp.obj"
+  "CMakeFiles/Detection_Simulator.dir/vertical_map.cpp.obj.d"
+  "Detection_Simulator.exe"
+  "Detection_Simulator.exe.manifest"
+  "Detection_Simulator.pdb"
+  "libDetection_Simulator.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Detection_Simulator.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

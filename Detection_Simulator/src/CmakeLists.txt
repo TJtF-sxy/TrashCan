@@ -1,0 +1,28 @@
+cmake_minimum_required(VERSION 3.20)
+project(Detection_Simulator CXX)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+
+add_executable(Detection_Simulator
+  main.cpp
+  Init.cpp
+  parse_cmd.cpp
+  noise.cpp
+  denoise.cpp
+  edge.cpp
+  show.cpp
+  img_preview.cpp
+  reset.cpp
+  avg_brightness.cpp
+  vertical_map.cpp
+  undo.cpp
+  threshold.cpp
+  find.cpp
+  flip.cpp
+)
+
+target_include_directories(Detection_Simulator PUBLIC
+    ${CMAKE_CURRENT_SOURCE_DIR}
+)
