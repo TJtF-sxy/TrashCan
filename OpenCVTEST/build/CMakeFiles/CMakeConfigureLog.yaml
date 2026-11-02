@@ -104,7 +104,7 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.11.1-1.26513.3+940033be3
-      鐢熸垚鍚姩鏃堕棿涓?2026/11/2 20:47:55銆?
+      鐢熸垚鍚姩鏃堕棿涓?2026/11/2 21:46:05銆?
       
       鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\4.4.4\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
@@ -133,7 +133,7 @@ events:
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:01.53
+      宸茬敤鏃堕棿 00:00:00.90
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -939,7 +939,7 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.11.1-1.26513.3+940033be3
-      鐢熸垚鍚姩鏃堕棿涓?2026/11/2 20:47:57銆?
+      鐢熸垚鍚姩鏃堕棿涓?2026/11/2 21:46:06銆?
       
       鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\4.4.4\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
@@ -968,7 +968,7 @@ events:
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:00.94
+      宸茬敤鏃堕棿 00:00:00.79
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -1420,8 +1420,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-tzv47n"
-      binary: "D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-tzv47n"
+      source: "D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-ce8hct"
+      binary: "D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-ce8hct"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
@@ -1431,39 +1431,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-tzv47n'
+        Change Dir: 'D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-ce8hct'
         
-        Run Build Command(s): D:/Visual_Studio/BEN_TI/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_de2bc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): D:/Visual_Studio/BEN_TI/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_c4230.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.11.1-1.26513.3+940033be3
-        鐢熸垚鍚姩鏃堕棿涓?2026/11/2 20:47:58銆?
+        鐢熸垚鍚姩鏃堕棿涓?2026/11/2 21:46:07銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tzv47n\\cmTC_de2bc.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ce8hct\\cmTC_c4230.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tzv47n\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_de2bc.dir\\Debug\\cmTC_de2bc.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ce8hct\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_c4230.dir\\Debug\\cmTC_c4230.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_de2bc.dir\\Debug\\cmTC_de2bc.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_de2bc.dir\\Debug\\cmTC_de2bc.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_c4230.dir\\Debug\\cmTC_c4230.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_c4230.dir\\Debug\\cmTC_c4230.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_de2bc.dir\\Debug\\\\" /Fd"cmTC_de2bc.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "D:\\Cmake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
+          D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_c4230.dir\\Debug\\\\" /Fd"cmTC_c4230.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "D:\\Cmake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36260 for x64
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_de2bc.dir\\Debug\\\\" /Fd"cmTC_de2bc.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "D:\\Cmake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_c4230.dir\\Debug\\\\" /Fd"cmTC_c4230.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "D:\\Cmake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tzv47n\\Debug\\cmTC_de2bc.exe" /INCREMENTAL /ILK:"cmTC_de2bc.dir\\Debug\\cmTC_de2bc.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-tzv47n/Debug/cmTC_de2bc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-tzv47n/Debug/cmTC_de2bc.lib" /MACHINE:X64  /machine:x64 cmTC_de2bc.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_de2bc.vcxproj -> D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tzv47n\\Debug\\cmTC_de2bc.exe
+          D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ce8hct\\Debug\\cmTC_c4230.exe" /INCREMENTAL /ILK:"cmTC_c4230.dir\\Debug\\cmTC_c4230.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-ce8hct/Debug/cmTC_c4230.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-ce8hct/Debug/cmTC_c4230.lib" /MACHINE:X64  /machine:x64 cmTC_c4230.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_c4230.vcxproj -> D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ce8hct\\Debug\\cmTC_c4230.exe
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_de2bc.dir\\Debug\\cmTC_de2bc.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_de2bc.dir\\Debug\\cmTC_de2bc.tlog\\cmTC_de2bc.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tzv47n\\cmTC_de2bc.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_c4230.dir\\Debug\\cmTC_c4230.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_c4230.dir\\Debug\\cmTC_c4230.tlog\\cmTC_c4230.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ce8hct\\cmTC_c4230.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.86
+        宸茬敤鏃堕棿 00:00:00.75
         
       exitCode: 0
   -
@@ -1476,7 +1476,7 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        link line: [  D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tzv47n\\Debug\\cmTC_de2bc.exe" /INCREMENTAL /ILK:"cmTC_de2bc.dir\\Debug\\cmTC_de2bc.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-tzv47n/Debug/cmTC_de2bc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-tzv47n/Debug/cmTC_de2bc.lib" /MACHINE:X64  /machine:x64 cmTC_de2bc.dir\\Debug\\CMakeCCompilerABI.obj] ==> linker [D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe]
+        link line: [  D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ce8hct\\Debug\\cmTC_c4230.exe" /INCREMENTAL /ILK:"cmTC_c4230.dir\\Debug\\cmTC_c4230.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-ce8hct/Debug/cmTC_c4230.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-ce8hct/Debug/cmTC_c4230.lib" /MACHINE:X64  /machine:x64 cmTC_c4230.dir\\Debug\\CMakeCCompilerABI.obj] ==> linker [D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe]
         linker tool for 'C': D:/Visual_Studio/BEN_TI/VC/Tools/MSVC/14.51.36231/bin/HostX64/x64/link.exe 
         implicit libs: []
         implicit objs: []
@@ -1504,8 +1504,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-eyjm0f"
-      binary: "D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-eyjm0f"
+      source: "D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-adqima"
+      binary: "D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-adqima"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1516,39 +1516,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-eyjm0f'
+        Change Dir: 'D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-adqima'
         
-        Run Build Command(s): D:/Visual_Studio/BEN_TI/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_30683.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): D:/Visual_Studio/BEN_TI/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b4e71.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.11.1-1.26513.3+940033be3
-        鐢熸垚鍚姩鏃堕棿涓?2026/11/2 20:48:00銆?
+        鐢熸垚鍚姩鏃堕棿涓?2026/11/2 21:46:08銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eyjm0f\\cmTC_30683.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-adqima\\cmTC_b4e71.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eyjm0f\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_30683.dir\\Debug\\cmTC_30683.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-adqima\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_b4e71.dir\\Debug\\cmTC_b4e71.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_30683.dir\\Debug\\cmTC_30683.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_30683.dir\\Debug\\cmTC_30683.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_b4e71.dir\\Debug\\cmTC_b4e71.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_b4e71.dir\\Debug\\cmTC_b4e71.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_30683.dir\\Debug\\\\" /Fd"cmTC_30683.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "D:\\Cmake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
+          D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_b4e71.dir\\Debug\\\\" /Fd"cmTC_b4e71.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "D:\\Cmake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36260 for x64
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_30683.dir\\Debug\\\\" /Fd"cmTC_30683.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "D:\\Cmake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_b4e71.dir\\Debug\\\\" /Fd"cmTC_b4e71.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "D:\\Cmake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eyjm0f\\Debug\\cmTC_30683.exe" /INCREMENTAL /ILK:"cmTC_30683.dir\\Debug\\cmTC_30683.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-eyjm0f/Debug/cmTC_30683.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-eyjm0f/Debug/cmTC_30683.lib" /MACHINE:X64  /machine:x64 cmTC_30683.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_30683.vcxproj -> D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eyjm0f\\Debug\\cmTC_30683.exe
+          D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-adqima\\Debug\\cmTC_b4e71.exe" /INCREMENTAL /ILK:"cmTC_b4e71.dir\\Debug\\cmTC_b4e71.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-adqima/Debug/cmTC_b4e71.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-adqima/Debug/cmTC_b4e71.lib" /MACHINE:X64  /machine:x64 cmTC_b4e71.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_b4e71.vcxproj -> D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-adqima\\Debug\\cmTC_b4e71.exe
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_30683.dir\\Debug\\cmTC_30683.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_30683.dir\\Debug\\cmTC_30683.tlog\\cmTC_30683.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eyjm0f\\cmTC_30683.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_b4e71.dir\\Debug\\cmTC_b4e71.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_b4e71.dir\\Debug\\cmTC_b4e71.tlog\\cmTC_b4e71.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-adqima\\cmTC_b4e71.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.88
+        宸茬敤鏃堕棿 00:00:00.78
         
       exitCode: 0
   -
@@ -1561,7 +1561,7 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        link line: [  D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eyjm0f\\Debug\\cmTC_30683.exe" /INCREMENTAL /ILK:"cmTC_30683.dir\\Debug\\cmTC_30683.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-eyjm0f/Debug/cmTC_30683.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-eyjm0f/Debug/cmTC_30683.lib" /MACHINE:X64  /machine:x64 cmTC_30683.dir\\Debug\\CMakeCXXCompilerABI.obj] ==> linker [D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe]
+        link line: [  D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\IFR\\2026\\TrashCan\\OpenCVTEST\\build\\CMakeFiles\\CMakeScratch\\TryCompile-adqima\\Debug\\cmTC_b4e71.exe" /INCREMENTAL /ILK:"cmTC_b4e71.dir\\Debug\\cmTC_b4e71.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-adqima/Debug/cmTC_b4e71.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/CMakeScratch/TryCompile-adqima/Debug/cmTC_b4e71.lib" /MACHINE:X64  /machine:x64 cmTC_b4e71.dir\\Debug\\CMakeCXXCompilerABI.obj] ==> linker [D:\\Visual_Studio\\BEN_TI\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe]
         linker tool for 'CXX': D:/Visual_Studio/BEN_TI/VC/Tools/MSVC/14.51.36231/bin/HostX64/x64/link.exe 
         implicit libs: []
         implicit objs: []
