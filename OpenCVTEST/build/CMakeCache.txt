@@ -274,7 +274,7 @@ CMAKE_GENERATOR_INSTANCE:INTERNAL=D:/Visual_Studio/BEN_TI
 //Name of generator platform.
 CMAKE_GENERATOR_PLATFORM:INTERNAL=x64
 //Name of generator toolset.
-CMAKE_GENERATOR_TOOLSET:INTERNAL=
+CMAKE_GENERATOR_TOOLSET:INTERNAL=v145
 //Source directory with the top level CMakeLists.txt file for this
 // project
 CMAKE_HOME_DIRECTORY:INTERNAL=D:/IFR/2026/TrashCan/OpenCVTEST
