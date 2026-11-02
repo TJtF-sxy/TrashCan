@@ -48,17 +48,17 @@ int main()
 
         // 读图失败要检查，否则后面用空 Mat 会出错
         if (img.empty()) {
-            std::cerr << "无法读取: " << path << std::endl;
+            std::cerr << "can't read: " << path << std::endl;
             continue;
         }
 
         std::string outPath = outputDir + path.filename().string();
         if (!cv::imwrite(outPath, img)) {
-            std::cerr << "无法写入: " << outPath << std::endl;
+            std::cerr << "can't write: " << outPath << std::endl;
             continue;
         }
 
-        std::cout << path.filename().string() << ": 已处理" << std::endl;
+        std::cout << path.filename().string() << ": processed" << std::endl;
     }
 
     return 0;
