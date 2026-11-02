@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\IFR\2026\OpenCVTEST\main.cpp">
+    <ClCompile Include="D:\IFR\2026\TrashCan\OpenCVTEST\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\IFR\2026\OpenCVTEST\CMakeLists.txt" />
+    <CustomBuild Include="D:\IFR\2026\TrashCan\OpenCVTEST\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{3B78612E-FCF2-3793-B585-140C2CE06767}</UniqueIdentifier>
+      <UniqueIdentifier>{D5559BD4-2DDF-37CF-9144-6891B3BFF510}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

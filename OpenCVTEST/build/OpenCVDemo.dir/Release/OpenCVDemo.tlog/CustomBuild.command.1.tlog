@@ -1,6 +1,6 @@
-^D:\IFR\2026\OPENCVTEST\CMAKELISTS.TXT
+^D:\IFR\2026\TRASHCAN\OPENCVTEST\CMAKELISTS.TXT
 setlocal
-D:\Cmake\bin\cmake.exe -SD:/IFR/2026/OpenCVTEST -BD:/IFR/2026/OpenCVTEST/build --check-stamp-file D:/IFR/2026/OpenCVTEST/build/CMakeFiles/generate.stamp
+D:\Cmake\bin\cmake.exe -SD:/IFR/2026/TrashCan/OpenCVTEST -BD:/IFR/2026/TrashCan/OpenCVTEST/build --check-stamp-file D:/IFR/2026/TrashCan/OpenCVTEST/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

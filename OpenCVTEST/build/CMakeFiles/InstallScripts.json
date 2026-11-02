@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"D:/IFR/2026/OpenCVTEST/build/cmake_install.cmake"
+		"D:/IFR/2026/TrashCan/OpenCVTEST/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

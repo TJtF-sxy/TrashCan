@@ -15,7 +15,7 @@ int main()
 
     // 1. 检查输入目录是否存在
     if (!fs::exists(inputDir)) {
-        std::cerr << "输入目录不存在: " << inputDir << std::endl;
+        std::cerr << "Input directory does not exist: " << inputDir << std::endl;
         return 1;
     }
 
@@ -38,7 +38,7 @@ int main()
               });
 
     if (files.empty()) {
-        std::cout << "input/ 下没有 PNG 文件" << std::endl;
+        std::cout << "input/ is empty" << std::endl;
         return 0;
     }
 

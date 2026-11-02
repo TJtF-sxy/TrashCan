@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\IFR\2026\OpenCVTEST\build\x64\Release\ZERO_CHECK</FullPath>
+      <FullPath>D:\IFR\2026\TrashCan\OpenCVTEST\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\IFR\2026\OpenCVTEST\build\Release\OpenCVDemo.exe</FullPath>
+      <FullPath>D:\IFR\2026\TrashCan\OpenCVTEST\build\Release\OpenCVDemo.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\IFR\2026\OpenCVTEST\build\x64\Release\ALL_BUILD</FullPath>
+      <FullPath>D:\IFR\2026\TrashCan\OpenCVTEST\build\x64\Release\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
